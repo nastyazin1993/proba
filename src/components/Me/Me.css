@@ -1,0 +1,54 @@
+.me {
+    display: flex;
+    flex-direction: column;
+    width: 950px;
+    margin: auto;
+  }
+  
+  .me__about {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    margin: 40px 0;
+  }
+  .me__title {
+    font-family: 'Gilroy Bold';
+    font-size: 47px;
+    line-height: 59px;
+    color: #070707;
+    margin: 0;
+    width: 123px;
+  }
+  .me__subtitle {
+    display: flex;
+    margin: 0;
+    font-size: 18px;
+    line-height: 22px;
+    color: #070707;
+    justify-content: left;
+    text-align: start;
+  }
+  .me__link {
+    display: flex;
+    flex-direction: column;
+  }
+  .me__link_ru {
+    transform: rotate(-90deg);
+    margin: 0;
+    font-size: 16px;
+    line-height: 20px;
+    color: #828282;
+  }
+  .me__link_eng {
+    transform: rotate(-90deg);
+    margin: 0;
+    margin-bottom: 10px;
+    font-size: 16px;
+    line-height: 20px;
+    color: #070707;
+  }
+  .me__image {
+    width: 950px;
+    height: 390px;
+    margin-bottom: 100px;
+  }

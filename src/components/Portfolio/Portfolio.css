@@ -1,0 +1,22 @@
+.portfolio {
+    background: #f6f6f6;
+    padding: 110px 0;
+  }
+  .portfolio__block {
+    margin-bottom: 100px;
+  }
+  .portfolio__img {
+    margin-bottom: 45px;
+  }
+  
+  .portfolio__title {
+    margin-bottom: 47px;
+  }
+  
+  .portfolio__img_subtitle {
+    margin: 0;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    text-decoration-line: underline;
+  }

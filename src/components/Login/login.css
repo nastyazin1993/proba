@@ -1,0 +1,10 @@
+@import url(./form/form.css);
+
+.login {
+  color: #ffffff;
+  width: 360px;
+  background: #000;
+  margin: auto;
+  cursor: default;
+  text-align: center;
+}

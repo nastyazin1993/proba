@@ -1,0 +1,14 @@
+@import url(./fonts/Gilroy.css);
+
+.App {
+  text-align: center;
+  font-family: 'Gilroy Medium', Georgia, Times, 'Times New Roman', serif;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+}
+
+

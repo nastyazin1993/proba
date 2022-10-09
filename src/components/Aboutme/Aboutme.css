@@ -1,0 +1,19 @@
+.aboutme {
+    background: #f6f6f6;
+    padding: 110px 0;
+  }
+  .title {
+    font-family: 'Gilroy Bold';
+    font-size: 34px;
+    line-height: 42px;
+    color: #070707;
+    margin: 0;
+  }
+  
+  .aboutme__subtitle {
+    font-size: 18px;
+    line-height: 22px;
+    color: #070707;
+    margin: 30px auto;
+    width: 475px;
+  }

@@ -1,0 +1,23 @@
+.skills {
+    margin: 100px auto;
+  }
+  
+  .skills__subtitle {
+    margin: 70px 0 80px;
+    font-size: 18px;
+    line-height: 22px;
+  }
+  
+  .skills__tablegrid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 90px;
+  }
+  .skills__table {
+    width: 170px;
+  }
+  .stars {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    gap: 10px;
+  }
